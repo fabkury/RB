@@ -2,7 +2,6 @@ RB
 ==
 
 Renova Backup - a very lightweight and efficient tool for maintaining backup versions.
-By Fabricio Kury.
 
 Coding start: Somewhere around april/2014.
 
@@ -19,8 +18,8 @@ Default configuration (backup versions):
 * older than 6 months
 
 Command line usage:
--u: Process all folders now (kill -USR1)
--r: Create report now (kill -USR2)
+* -u: Process all folders now (kill -USR1)
+* -r: Create report now (kill -USR2)
 
 TO DOs:
 * Make a more configurable scheduling system.
