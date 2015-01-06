@@ -2,7 +2,7 @@ RB
 ==
 
 Renova Backup - a very lightweight and efficient tool for maintaining backup versions.
-By Fabricio Kury -- fabriciokury@gmail.com -- github.com/fabkury
+By Fabricio Kury.
 
 Coding start: Somewhere around april/2014.
 
