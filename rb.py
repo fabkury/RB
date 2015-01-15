@@ -34,9 +34,6 @@
 # - Make the code produce the S99rbd and Painel.php files.
 # - Make the system also move files lingering in the RB_SOURCE folder?
 
-# New pull request from Eric
-
-
 from __future__ import with_statement
 import subprocess
 import os, sys
